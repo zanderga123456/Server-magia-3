@@ -1,0 +1,110 @@
+"[Skin Configuration] Default Skin" = {}
+
+["[Main Configuration]"]
+	#Enable main configuration.
+	mainConfigurationEnabled = true
+	#Allow main configuration in creative mode.
+	mainConfigurationAllowInCreative = true
+	#main configuration permission level. (0 = everyone, 1 = moderator, 2 = gamemaster, 3 = admin, 4 = owner)
+	#Range: 0 ~ 4
+	mainConfigurationPermissionLevel = 0
+
+["[Action Configuration] Basic Action"]
+	#Enable basic action configuration.
+	basicActionConfigurationEnabled = true
+	#Allow basic action configuration in creative mode.
+	basicActionConfigurationAllowInCreative = true
+	#basic action configuration permission level. (0 = everyone, 1 = moderator, 2 = gamemaster, 3 = admin, 4 = owner)
+	#Range: 0 ~ 4
+	basicActionConfigurationPermissionLevel = 1
+
+["[Action Configuration] Dialog Action"]
+	#Enable dialog action configuration.
+	dialogActionConfigurationEnabled = true
+	#Allow dialog action configuration in creative mode.
+	dialogActionConfigurationAllowInCreative = true
+	#dialog action configuration permission level. (0 = everyone, 1 = moderator, 2 = gamemaster, 3 = admin, 4 = owner)
+	#Range: 0 ~ 4
+	dialogActionConfigurationPermissionLevel = 1
+
+["[Action Configuration] Distance Action"]
+	#Enable distance action configuration.
+	distanceActionConfigurationEnabled = true
+	#Allow distance action configuration in creative mode.
+	distanceActionConfigurationAllowInCreative = true
+	#distance action configuration permission level. (0 = everyone, 1 = moderator, 2 = gamemaster, 3 = admin, 4 = owner)
+	#Range: 0 ~ 4
+	distanceActionConfigurationPermissionLevel = 1
+
+["[Attribute Configuration] Abilities Attribute"]
+	#Enable abilities attribute configuration.
+	abilitiesAttributeConfigurationEnabled = true
+	#Allow abilities attribute configuration in creative mode.
+	abilitiesAttributeConfigurationAllowInCreative = true
+	#abilities attribute configuration permission level. (0 = everyone, 1 = moderator, 2 = gamemaster, 3 = admin, 4 = owner)
+	#Range: 0 ~ 4
+	abilitiesAttributeConfigurationPermissionLevel = 0
+
+["[Attribute Configuration] Base Attribute"]
+	#Enable base attribute configuration.
+	baseAttributeConfigurationEnabled = true
+	#Allow base attribute configuration in creative mode.
+	baseAttributeConfigurationAllowInCreative = true
+	#base attribute configuration permission level. (0 = everyone, 1 = moderator, 2 = gamemaster, 3 = admin, 4 = owner)
+	#Range: 0 ~ 4
+	baseAttributeConfigurationPermissionLevel = 1
+
+["[Attribute Configuration] Display Attribute"]
+	#Enable display attribute configuration.
+	displayAttributeConfigurationEnabled = true
+	#Allow display attribute configuration in creative mode.
+	displayAttributeConfigurationAllowInCreative = true
+	#display attribute configuration permission level. (0 = everyone, 1 = moderator, 2 = gamemaster, 3 = admin, 4 = owner)
+	#Range: 0 ~ 4
+	displayAttributeConfigurationPermissionLevel = 1
+
+["[Dialog Configuration] None Dialog"]
+	#Enable none dialog configuration.
+	noneDialogConfigurationEnabled = true
+	#Allow none dialog configuration in creative mode.
+	noneDialogConfigurationAllowInCreative = true
+	#none dialog configuration permission level. (0 = everyone, 1 = moderator, 2 = gamemaster, 3 = admin, 4 = owner)
+	#Range: 0 ~ 4
+	noneDialogConfigurationPermissionLevel = 0
+
+["[Dialog Configuration] Basic Dialog"]
+	#Enable basic dialog configuration.
+	basicDialogConfigurationEnabled = true
+	#Allow basic dialog configuration in creative mode.
+	basicDialogConfigurationAllowInCreative = true
+	#basic dialog configuration permission level. (0 = everyone, 1 = moderator, 2 = gamemaster, 3 = admin, 4 = owner)
+	#Range: 0 ~ 4
+	basicDialogConfigurationPermissionLevel = 0
+
+["[Dialog Configuration] Yes/No Dialog"]
+	#Enable yes/no dialog configuration.
+	yesNoDialogConfigurationEnabled = true
+	#Allow yes/no dialog configuration in creative mode.
+	yesNoDialogConfigurationAllowInCreative = true
+	#yes/no dialog configuration permission level. (0 = everyone, 1 = moderator, 2 = gamemaster, 3 = admin, 4 = owner)
+	#Range: 0 ~ 4
+	yesNoDialogConfigurationPermissionLevel = 0
+
+["[Dialog Configuration] Advanced Dialog"]
+	#Enable advanced dialog configuration.
+	advancedDialogConfigurationEnabled = true
+	#Allow advanced dialog configuration in creative mode.
+	advancedDialogConfigurationAllowInCreative = true
+	#advanced dialog configuration permission level. (0 = everyone, 1 = moderator, 2 = gamemaster, 3 = admin, 4 = owner)
+	#Range: 0 ~ 4
+	advancedDialogConfigurationPermissionLevel = 0
+
+["[Skin Configuration] None Skin"]
+	#Enable none skin configuration.
+	noneSkinConfigurationEnabled = true
+	#Allow none skin configuration in creative mode.
+	noneSkinConfigurationAllowInCreative = true
+	#none skin configuration permission level. (0 = everyone, 1 = moderator, 2 = gamemaster, 3 = admin, 4 = owner)
+	#Range: 0 ~ 4
+	noneSkinConfigurationPermissionLevel = 0
+
